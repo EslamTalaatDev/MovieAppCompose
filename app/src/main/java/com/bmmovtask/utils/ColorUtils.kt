@@ -5,11 +5,6 @@ import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.graphics.ColorMatrix
 import androidx.palette.graphics.Palette
 
-fun Bitmap.isDark(): Boolean {
-    return Palette.from(this).generate().dominantSwatch?.run {
-        getPerceptiveLuminance() < 0.5
-    } ?: true
-}
 
 fun Palette.Swatch.getPerceptiveLuminance(): Float {
     val r: Int = android.graphics.Color.red(rgb)
