@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Bmmovtask</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="favourite_type_movie_label">Movies</string>
+    <string name="favourite_type_tv_show_label">Tv Shows</string>
+
+    <string name="status_rumored_label">Rumored</string>
+    <string name="status_planned_label">Planned</string>
+    <string name="status_in_production_label">In production</string>
+    <string name="status_post_production_label">Post production</string>
+    <string name="status_released_label">Released</string>
+    <string name="status_cancelled_label">Cancelled</string>
+
+    <string name="movie_provider_type_rent_label">Rent</string>
+    <string name="movie_provider_type_buy_label">Buy</string>
+    <string name="movie_provider_type_stream_label">Stream</string>
+
+    <string name="snack_bar_network_connected_label">Connected to network</string>
+    <string name="snack_bar_network_disconnected_label">Network connection lost</string>
+
+
+    <string name="scanner_error_info_no_text">No text has been recognized</string>
+    <string name="scanner_error_info_to_short_text">Scanned text is to short</string>
+    <string name="scanner_error_info_to_long_text">Scanned text is to long</string>
+
+
+    <string name="now_playing">Now playing</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">UpComing</string>
+    <string name="movies_more">more</string>
+
+
+    <string name="movie_details_watch_at">End watching at %s</string>
+
+
+    <string name="show_more">Show\u00A0more</string>
+    <string name="show_less">Show\u00A0less</string>
+
+
+</resources>
